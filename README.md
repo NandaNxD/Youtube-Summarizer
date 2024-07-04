@@ -1,3 +1,14 @@
+# Youtube Summarizer ⚡
+
+Gemini Powered Video Summarizer chrome extension built using
+1. React
+2. Plasmo
+3. Node.js
+4. Gemini
+5. Gen AI
+6. Youtube API
+
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
