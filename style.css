@@ -1,0 +1,7 @@
+.summary-button{
+    background-color: black;
+}
+
+.summary-button:hover{
+    transform: scale(1.05);
+}
