@@ -7,6 +7,10 @@ Gemini Powered Video Summarizer chrome extension built using
 4. Gemini
 5. Gen AI
 6. Youtube API
+   
+![Youtube summarizer](https://github.com/NandaNxD/Youtube-Summarizer/assets/65838540/c7d9dedf-d60e-4080-91b9-c3d3c632813e)
+
+It injects dom elements into youtube webapp that help in summarizing the video
 
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
